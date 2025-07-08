@@ -2,6 +2,15 @@
 
 Este repositório contém o código completo do **sistema de monitoramento de estufa inteligente** com ESP32 e interface web responsiva, desenvolvido como trabalho final da disciplina **"Introdução à Engenharia e ao Método Científico" em conjunto com "Técnicas de Programação"**.
 
+## Alunos:
+
+Aureliano Guimarães Belarmino Filho -	2025006474 
+Guilherme Matias Ribeiro de Sá - 2025007678 
+Guilherme Mota Meireles de Lima	- 2025007097 
+Lucas Fernandes Faria -	2025006840 
+Pedro Henrique Pontes -	2025007702 
+Phelipe de Oliveira Alves -	2025009242 
+
 ## 📘 Descrição Geral
 
 O projeto simula uma **estufa automatizada**, com sensores e atuadores conectados ao ESP32, exibindo os dados em **tempo real** em um **dashboard web moderno e interativo**. O sistema é capaz de:
