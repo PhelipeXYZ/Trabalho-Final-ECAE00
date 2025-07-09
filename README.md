@@ -71,4 +71,4 @@ estufa-inteligente/
 
 ## Imagens
 
-!img/diagrama-de-blocos.png
+!Trabalho-Final-ECAE00/img/diagrama-de-blocos.png
