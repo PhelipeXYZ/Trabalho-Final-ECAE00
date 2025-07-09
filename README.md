@@ -56,6 +56,12 @@ O projeto simula uma **estufa automatizada**, com sensores e atuadores conectado
 
 ---
 
+## Imagens
+
+!/Trabalho-Final-ECAE00/img/diagrama-de-blocos.png
+
+---
+
 ## 📡 Estrutura do Projeto
 
 ```text
@@ -66,9 +72,3 @@ estufa-inteligente/
 │   └── estufa_simulada.html    # Versão do site simulada para navegador
 ├── assets/                     # Imagens ou ícones (opcional)
 ├── README.md                   # Este arquivo
-
----
-
-## Imagens
-
-!Trabalho-Final-ECAE00/img/diagrama-de-blocos.png
