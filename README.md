@@ -58,7 +58,7 @@ O projeto simula uma **estufa automatizada**, com sensores e atuadores conectado
 
 ## 📡 Estrutura do Projeto
 
-```text
+
 estufa-inteligente/
 ├── arduino/
 │   └── estufa_esp32.ino        # Código completo para ESP32
@@ -66,3 +66,9 @@ estufa-inteligente/
 │   └── estufa_simulada.html    # Versão do site simulada para navegador
 ├── assets/                     # Imagens ou ícones (opcional)
 ├── README.md                   # Este arquivo
+
+---
+
+## Imagens
+
+!img/diagrama-de-blocos.png
