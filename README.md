@@ -59,6 +59,8 @@ O projeto simula uma **estufa automatizada**, com sensores e atuadores conectado
 ## Imagens
 
 ![Esquematico no Wokwi](/img/esquematico-wokwi.png)
+![Foto do Projeto](img/foto-projeto.png)
+![Diagrama de Blocos](img/diagrama-de-blocos.png)
 
 ---
 
