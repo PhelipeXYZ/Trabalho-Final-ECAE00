@@ -58,7 +58,7 @@ O projeto simula uma **estufa automatizada**, com sensores e atuadores conectado
 
 ## Imagens
 
-!/Trabalho-Final-ECAE00/img/diagrama-de-blocos.png
+!/img/diagrama-de-blocos.png
 
 ---
 
